@@ -11,5 +11,5 @@ Extracts Currency Amounts
 
  Setup Instructions
 1. Clone the repository:
-   git clone https://github.com/{DaVinci34162}/alu_regex-data-extraction-{DaVinci34162}.git
-   cd alu_regex-data-extraction-{DaVinci34162}
+   git clone https://github.com/DaVinci34162/alu_regex-data-extraction-aVinci34162.git
+   cd alu_regex-data-extraction-DaVinci34162
